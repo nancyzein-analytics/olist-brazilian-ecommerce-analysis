@@ -60,6 +60,12 @@ The transformation process included:
 - Handling null values and business conditions
 - Ensuring metrics were calculated at the appropriate business grain
 
+### SQL Queries
+
+- [Customers & Orders Analysis](Customers_Orders.sql)
+- [Orders, Products & Sellers Analysis](Orders_Products_Sellers.sql)
+- [Reviews Analysis](Reviews.sql)
+- [Payment Analysis](Payments.sql)
 
 # 📊 Power BI Dashboard
 
